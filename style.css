@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300;600;900&display=swap');
+body{
+    font-family: 'Prompt', sans-serif;
+}
+h3,h5{
+    font-weight: 600;
+}
+.btn{
+    font-weight: 500;
+}
